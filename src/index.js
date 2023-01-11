@@ -1,4 +1,4 @@
-import SimpleLightbox from 'simplelightbox';
-import 'simplelightbox/dist/simple-lightbox.min.css';
+import { sayHello } from './utils';
+import './styles.css';
 
-console.log('hello world!');
+sayHello();
